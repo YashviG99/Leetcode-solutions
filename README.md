@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/YashviG99/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0455-assign-cookies](https://github.com/YashviG99/Leetcode-solutions/tree/master/0455-assign-cookies) |
 ## Two Pointers
 |  |
@@ -19,4 +20,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/YashviG99/Leetcode-solutions/tree/master/0455-assign-cookies) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/YashviG99/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/YashviG99/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/YashviG99/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/YashviG99/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
