@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/YashviG99/Leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/YashviG99/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/YashviG99/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/YashviG99/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/YashviG99/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/YashviG99/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/YashviG99/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/YashviG99/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 ## Matrix
 |  |
 | ------- |
@@ -53,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/YashviG99/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/YashviG99/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/YashviG99/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
