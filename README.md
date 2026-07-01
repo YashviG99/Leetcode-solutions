@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/YashviG99/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0239-sliding-window-maximum](https://github.com/YashviG99/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/YashviG99/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/YashviG99/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [1929-concatenation-of-array](https://github.com/YashviG99/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/YashviG99/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/YashviG99/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/YashviG99/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/YashviG99/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 ## Greedy
@@ -75,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/YashviG99/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/YashviG99/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/YashviG99/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
