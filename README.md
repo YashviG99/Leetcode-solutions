@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/YashviG99/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0455-assign-cookies](https://github.com/YashviG99/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/YashviG99/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 ## Greedy
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/YashviG99/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0142-linked-list-cycle-ii](https://github.com/YashviG99/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/YashviG99/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/YashviG99/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 ## Matrix
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/YashviG99/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
+## Linked List
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/YashviG99/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
