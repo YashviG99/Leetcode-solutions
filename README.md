@@ -81,10 +81,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/YashviG99/Leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/YashviG99/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0875-koko-eating-bananas](https://github.com/YashviG99/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/YashviG99/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/YashviG99/Leetcode-solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
