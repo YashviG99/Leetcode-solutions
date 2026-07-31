@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/YashviG99/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/YashviG99/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0875-koko-eating-bananas](https://github.com/YashviG99/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/YashviG99/Leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1929-concatenation-of-array](https://github.com/YashviG99/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/YashviG99/Leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/YashviG99/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0875-koko-eating-bananas](https://github.com/YashviG99/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/YashviG99/Leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Bit Manipulation
 |  |
 | ------- |
