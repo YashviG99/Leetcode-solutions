@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/YashviG99/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0394-decode-string](https://github.com/YashviG99/Leetcode-solutions/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/YashviG99/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/YashviG99/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/YashviG99/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0394-decode-string](https://github.com/YashviG99/Leetcode-solutions/tree/master/0394-decode-string) |
 ## Simulation
 |  |
 | ------- |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/YashviG99/Leetcode-solutions/tree/master/0278-first-bad-version) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/YashviG99/Leetcode-solutions/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
