@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/YashviG99/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/YashviG99/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/YashviG99/Leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0733-flood-fill](https://github.com/YashviG99/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/YashviG99/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/YashviG99/Leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1929-concatenation-of-array](https://github.com/YashviG99/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/YashviG99/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0733-flood-fill](https://github.com/YashviG99/Leetcode-solutions/tree/master/0733-flood-fill) |
 ## String
 |  |
 | ------- |
@@ -105,4 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/YashviG99/Leetcode-solutions/tree/master/0394-decode-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/YashviG99/Leetcode-solutions/tree/master/0733-flood-fill) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/YashviG99/Leetcode-solutions/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
