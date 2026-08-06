@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/YashviG99/Leetcode-solutions/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/YashviG99/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/YashviG99/Leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0856-score-of-parentheses](https://github.com/YashviG99/Leetcode-solutions/tree/master/0856-score-of-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/YashviG99/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0394-decode-string](https://github.com/YashviG99/Leetcode-solutions/tree/master/0394-decode-string) |
+| [0856-score-of-parentheses](https://github.com/YashviG99/Leetcode-solutions/tree/master/0856-score-of-parentheses) |
 ## Simulation
 |  |
 | ------- |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0733-flood-fill](https://github.com/YashviG99/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/YashviG99/Leetcode-solutions/tree/master/0994-rotting-oranges) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/YashviG99/Leetcode-solutions/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
