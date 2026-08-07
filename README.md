@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/YashviG99/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0733-flood-fill](https://github.com/YashviG99/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/YashviG99/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/YashviG99/Leetcode-solutions/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/YashviG99/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/YashviG99/Leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1929-concatenation-of-array](https://github.com/YashviG99/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/YashviG99/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0877-stone-game](https://github.com/YashviG99/Leetcode-solutions/tree/master/0877-stone-game) |
 ## Stack
 |  |
 | ------- |
@@ -124,4 +126,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/YashviG99/Leetcode-solutions/tree/master/0856-score-of-parentheses) |
+## Math
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/YashviG99/Leetcode-solutions/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/YashviG99/Leetcode-solutions/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/YashviG99/Leetcode-solutions/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/YashviG99/Leetcode-solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
