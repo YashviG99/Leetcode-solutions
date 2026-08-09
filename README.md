@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/YashviG99/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0394-decode-string](https://github.com/YashviG99/Leetcode-solutions/tree/master/0394-decode-string) |
+| [0412-fizz-buzz](https://github.com/YashviG99/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/YashviG99/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/YashviG99/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0856-score-of-parentheses](https://github.com/YashviG99/Leetcode-solutions/tree/master/0856-score-of-parentheses) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/YashviG99/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/YashviG99/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Linked List
 |  |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/YashviG99/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0877-stone-game](https://github.com/YashviG99/Leetcode-solutions/tree/master/0877-stone-game) |
 ## Minimax
 |  |
