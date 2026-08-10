@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/YashviG99/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/YashviG99/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/YashviG99/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/YashviG99/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/YashviG99/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/YashviG99/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/YashviG99/Leetcode-solutions/tree/master/0455-assign-cookies) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/YashviG99/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/YashviG99/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/YashviG99/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/YashviG99/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## String
@@ -119,10 +121,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/YashviG99/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/YashviG99/Leetcode-solutions/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/YashviG99/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/YashviG99/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/YashviG99/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## Bracket Sequences
@@ -150,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/YashviG99/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/YashviG99/Leetcode-solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
