@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/YashviG99/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/YashviG99/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/YashviG99/Leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0518-coin-change-ii](https://github.com/YashviG99/Leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0733-flood-fill](https://github.com/YashviG99/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/YashviG99/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/YashviG99/Leetcode-solutions/tree/master/0877-stone-game) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/YashviG99/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0518-coin-change-ii](https://github.com/YashviG99/Leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/YashviG99/Leetcode-solutions/tree/master/0877-stone-game) |
 ## Stack
 |  |
@@ -158,4 +160,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/YashviG99/Leetcode-solutions/tree/master/0200-number-of-islands) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/YashviG99/Leetcode-solutions/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/YashviG99/Leetcode-solutions/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
