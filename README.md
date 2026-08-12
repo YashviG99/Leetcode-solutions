@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/YashviG99/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/YashviG99/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/YashviG99/Leetcode-solutions/tree/master/0079-word-search) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/YashviG99/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/YashviG99/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/YashviG99/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/YashviG99/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/YashviG99/Leetcode-solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/YashviG99/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/YashviG99/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/YashviG99/Leetcode-solutions/tree/master/0994-rotting-oranges) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/YashviG99/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0079-word-search](https://github.com/YashviG99/Leetcode-solutions/tree/master/0079-word-search) |
 | [0394-decode-string](https://github.com/YashviG99/Leetcode-solutions/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/YashviG99/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/YashviG99/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/YashviG99/Leetcode-solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/YashviG99/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/YashviG99/Leetcode-solutions/tree/master/0733-flood-fill) |
 ## Breadth-First Search
@@ -170,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/YashviG99/Leetcode-solutions/tree/master/0518-coin-change-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/YashviG99/Leetcode-solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
