@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/YashviG99/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0338-counting-bits](https://github.com/YashviG99/Leetcode-solutions/tree/master/0338-counting-bits) |
 | [0518-coin-change-ii](https://github.com/YashviG99/Leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/YashviG99/Leetcode-solutions/tree/master/0877-stone-game) |
 ## Stack
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/YashviG99/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/YashviG99/Leetcode-solutions/tree/master/0338-counting-bits) |
 ## Interactive
 |  |
 | ------- |
