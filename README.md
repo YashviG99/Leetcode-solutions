@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/YashviG99/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/YashviG99/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0856-score-of-parentheses](https://github.com/YashviG99/Leetcode-solutions/tree/master/0856-score-of-parentheses) |
+| [1678-goal-parser-interpretation](https://github.com/YashviG99/Leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
 ## Dynamic Programming
 |  |
 | ------- |
